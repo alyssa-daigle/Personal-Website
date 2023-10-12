@@ -4,7 +4,7 @@ title: ""
 
 <center>
 
-![](pictures/profpic copy.jpeg){width="20%"}
+![](pictures/profpic%20copy.jpeg){width="20%"}
 
 # Alyssa Daigle
 
