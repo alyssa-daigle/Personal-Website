@@ -14,7 +14,7 @@ title: ""
 
 ###### [ alyssa.daigle[at]unh.edu ]
 
-Hello! My name is Alyssa, and I am a master's student in Microbiology at the University of New Hampshire where I work with [Dr. Anna O'Brien](https://amob.github.io/). My research focuses on implementing duckweeds (aquatic plants) to uptake nutrients from agricultural runoff, and then harvesting the biomass to utilize as a green fertilizer. Specifically, I will study the interactions between duckweeds and toxic cyanobacteria that co-occur in the duckweed microbiome, and how these interactions influence the quality and safety of the green manure.
+Hello! My name is Alyssa, and I am a master's student in Microbiology at the University of New Hampshire where I work with [Dr. Anna O'Brien](https://amob.github.io/). My research focuses on implementing duckweeds and other aquatic plants as green manure. Specifically, I am interested in the interactions between duckweeds and toxic cyanobacteria that co-occur in the duckweed microbiome, and how these interactions influence the quality and safety of the green manure. Interested in my work? Read more in the "Research" tab! :) 
 
 ![](pictures/chocorua.jpeg){width="70%"}
 

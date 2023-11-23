@@ -3,4 +3,6 @@ title: "cv"
 ---
 
 
+![CV](pictures/CV.pdf){width="100%"}
+
 

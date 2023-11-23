@@ -3,9 +3,13 @@ title: ""
 ---
 <center>
 
-## Duckweeds and Filamentous Green Algae as Green Fertilizers
-#### Implications of co-occurring microbes on quality of green fertilzer
+## Duckweeds as Green Manure
+#### Implications of co-occurring cyanotoxins on manure quality
 
 ![](pictures/duckweed.jpeg){width=50%}
 
 </center>
+
+Duckweeds are model organisms for many reasons. They have simple growth requirements, short generation times, and they proficiently sequester nutrients. These conditions make duckweeds a suitable candidate for green manure, as stated previously in the literature. 
+
+What are the effects of the duckweed microbiome on the quality of the resulting manure? Do certain microbes result in a higher nutrient content? 
